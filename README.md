@@ -29,7 +29,9 @@ http://localhost:5000
 ```
 ## 🎥 Demo Video
 ```
-https://github.com/your-username/your-repository/assets/demo-video
+## 🎥 Demo Video
+
+[Watch Demo Video](https://github.com/deept-369/Cafe_chatbot/demo.mp4)
 ```
 ## 💬 Chatbot Covers (30+ Topics)
 - ☕ Full menu with prices (espresso, cold brew, teas, food)
