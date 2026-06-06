@@ -27,7 +27,10 @@ python app.py
 # 3. Open in browser
 http://localhost:5000
 ```
-
+## 🎥 Demo Video
+```
+https://github.com/your-username/your-repository/assets/demo-video
+```
 ## 💬 Chatbot Covers (30+ Topics)
 - ☕ Full menu with prices (espresso, cold brew, teas, food)
 - 🕐 Opening hours (Mon–Sun)
