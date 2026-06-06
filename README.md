@@ -2,6 +2,8 @@
 
 A full-stack café chatbot website built with **Python Flask**, **HTML/CSS**, and **JavaScript**.
 
+![Cafe_Chatbot Demo](demo.gif)
+
 ## 📁 Project Structure
 
 ```
@@ -27,9 +29,6 @@ python app.py
 # 3. Open in browser
 http://localhost:5000
 ```
-## 🎥 Demo Video
-
-[Watch Demo Video](https://github.com/deept-369/Cafe_chatbot/demo.mp4)
 
 ## 💬 Chatbot Covers (30+ Topics)
 - ☕ Full menu with prices (espresso, cold brew, teas, food)
