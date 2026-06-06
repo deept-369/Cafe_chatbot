@@ -1,5 +1,5 @@
 # ☕ Brewed Awakening Café – Chatbot Website
-![Cafe Chatbot](/demo.gif)
+![Cafe Chatbot](demo.gif)
 
 A full-stack café chatbot website built with **Python Flask**, **HTML/CSS**, and **JavaScript**.
 
