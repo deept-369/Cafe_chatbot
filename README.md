@@ -2,7 +2,7 @@
 
 A full-stack café chatbot website built with **Python Flask**, **HTML/CSS**, and **JavaScript**.
 
-![Cafe_Chatbot Demo](demo.gif)
+![Cafe_chatbot](demo.gif)
 
 ## 📁 Project Structure
 
